@@ -2,5 +2,10 @@
 name = "battery_cycles"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/felixwatts/battery_cycles"
+description = "Count battery discharge cycles using the Full Equivalent Cycle (FEC) method."
+license = "MIT"
+readme = "README.md"
+keywords = ["Battery", "LiFePO4", "Lithium"]
 
 [dependencies]
